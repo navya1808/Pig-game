@@ -1,0 +1,84 @@
+body {
+    background-color :blanchedalmond;
+}
+.container {
+    background-color : blanchedalmond;
+    /* height : 660px; */
+    /* margin-top : 15px;
+    margin-bottom: 15px; */
+}
+.btn-new {
+    text-align: center;
+    margin-top : 4px;
+    color :black;
+}
+h1 {
+    color : red;
+}
+.active {
+    background-color : burlywood;
+    box-shadow: 2px 2px 5px black;
+}
+
+.player-score {
+    text-align: center;
+    font-size: 90px;
+}
+
+img {
+    box-shadow: 2px 2px 5px 1px black;
+    padding-right: 0%;
+    margin : auto;
+}
+
+h3 {
+    text-align: center;
+    font-size : 40px;
+}
+icon {
+    text-align: center;
+    font-size : 40px;
+}
+.current-box {
+    width : 120px;
+    height : 100px;
+    background-color : red; 
+    text-align: center;
+    font-size : 30px;
+    box-shadow: 2px 2px 5px 2px black;
+    margin : auto;
+}
+
+.current-scores {
+ color : whitesmoke;
+}
+
+.icon {
+    text-align: center;
+    margin-left : 450px;
+    display :inline;
+    
+}
+
+
+small {
+    color : black;
+}
+
+.dis {
+color : blanchedalmond ;
+}
+
+button {
+     border : 0px solid blanchedalmond;
+     background-color: blanchedalmond;
+     
+}
+
+button:focus {
+    outline: none;
+}
+
+@media only screen and (max-width: 768px) {
+   
+}
